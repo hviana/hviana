@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hv5088@gmail.com**
 
-- 📄 Know about my experiences [Senior Software Development Analyst in Brazilian industry.](Senior Software Development Analyst in Brazilian industry.)
+- 📄 Know about my experiences: Senior Software Development Analyst in Brazilian industry.
 
 - ⚡ Fun fact **I like to record videos of insects that I find at home.**
 
